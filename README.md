@@ -1,4 +1,4 @@
-Solo Project: Soft Skill Analysis
+***Solo Project: Soft Skill Analysis***
 
 **_Objective:_**
 
@@ -11,11 +11,13 @@ The objective of this project was to find out what soft skills employers look fo
 **_Soft Skill Sets:_**
 
 Through market research I identified 5 soft skill sets that I feel are the most popular with employers I have determined this from the frequency in which these skill sets have appeared through my cluster analysis. These skills sets are shown below.
+
 1.	Communication Skills
 2.	Work Ethic
 3.	Time Management 
 4.	Interpersonal Skills
 5.	Teamwork Skills
+
 I will explain these soft skill sets in more detail in my presentation; these skills set will be drive my analysis and I will use this metric to evaluate what soft skills employers look for when hiring data analysts.
 
 **_Research questions_**
